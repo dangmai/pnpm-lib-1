@@ -1,0 +1,18 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  pnpm-dep-1:
+    specifier: github:dangmai/pnpm-dep-1#main
+    version: github.com/dangmai/pnpm-dep-1/3f9f823760c7bd988e203bde5c72e8cbd9da92a4
+
+packages:
+
+  github.com/dangmai/pnpm-dep-1/3f9f823760c7bd988e203bde5c72e8cbd9da92a4:
+    resolution: {tarball: https://codeload.github.com/dangmai/pnpm-dep-1/tar.gz/3f9f823760c7bd988e203bde5c72e8cbd9da92a4}
+    name: pnpm-dep-1
+    version: 1.0.0
+    dev: false
